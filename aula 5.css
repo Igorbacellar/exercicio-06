@@ -1,0 +1,38 @@
+body {
+    background-color:rgba(80, 73, 73, 0.342)
+
+}
+ 
+
+h1 { color: rgba(255, 251, 0, 0.918);                    
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: oblique;
+font-size: xx-large;
+text-align: center  ;
+}
+
+h2 { color:rgb(219, 70, 70);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-size: medium;
+    text-align: center;  
+}
+
+
+label {color:rgba(170, 9, 103, 0.753);
+    font-size: large;
+}
+
+
+section p { color:rgb(8, 58, 23);
+    font-size:x-large;
+    text-align:center
+}
+
+section strong { color:black;
+}
+
+fieldset {border-color:red;
+border-radius: 10px;
+
+}
